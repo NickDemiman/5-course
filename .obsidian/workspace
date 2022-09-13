@@ -1,0 +1,149 @@
+{
+  "main": {
+    "id": "b54c812816964891",
+    "type": "split",
+    "children": [
+      {
+        "id": "73b4d1056e2ce850",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Оптимизация БД систем машинного обучения/Теория нормализации схем отношений.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d2c4fa1ac86b8381",
+    "type": "split",
+    "children": [
+      {
+        "id": "05502f763ed2d1c6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e2e52edf37ab113d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "213e80c33e593373",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1b7cb44e51c6218c",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 407.5
+  },
+  "right": {
+    "id": "575493c105e3aa52",
+    "type": "split",
+    "children": [
+      {
+        "id": "a77b8230948bd279",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9b7d8ff9eb35e40c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Оптимизация БД систем машинного обучения/Теория нормализации схем отношений.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "db1b91a7210889b2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Оптимизация БД систем машинного обучения/Теория нормализации схем отношений.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c26421cc974462c3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "482d67d9268e14da",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Оптимизация БД систем машинного обучения/Теория нормализации схем отношений.md"
+              }
+            }
+          },
+          {
+            "id": "6a1c882d49767e73",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "73b4d1056e2ce850",
+  "lastOpenFiles": [
+    "Оптимизация БД систем машинного обучения/Основные операции реляционной алгебры.md",
+    "Оптимизация БД систем машинного обучения/Теория нормализации схем отношений.md",
+    "Оптимизация БД систем машинного обучения/Введение. Машинное обучение, пример построения кластера.md",
+    "Лекции/12.09 Лекция 2.md",
+    "2022-09-09.md",
+    "Лекции/05.09 Лекция 1.md",
+    "2022-09-05.md"
+  ]
+}

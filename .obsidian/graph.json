@@ -1,0 +1,30 @@
+{
+  "collapse-filter": true,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "file:Лекция",
+      "color": {
+        "a": 1,
+        "rgb": 4390735
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": true,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 2.89298909414645,
+  "lineSizeMultiplier": 5,
+  "collapse-forces": true,
+  "centerStrength": 0.413420876919653,
+  "repelStrength": 15.9603828177164,
+  "linkStrength": 0.862118851546851,
+  "linkDistance": 174,
+  "scale": 1.0000000000000002,
+  "close": false
+}
