@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Семинары/Семинар 1.md",
+            "file": "Оптимизация баз данных/Семинары/Семинар 1.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Семинары/Семинар 1.md",
+                "file": "Оптимизация баз данных/Семинары/Семинар 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Семинары/Семинар 1.md",
+                "file": "Оптимизация баз данных/Семинары/Семинар 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Семинары/Семинар 1.md"
+                "file": "Оптимизация баз данных/Семинары/Семинар 1.md"
               }
             }
           },
@@ -147,12 +147,15 @@
   },
   "active": "17c38e296e6ac44a",
   "lastOpenFiles": [
+    "().md",
+    "Оптимизация баз данных/Семинары/Семинар 1.md",
+    "Сурс.md",
+    "Сурс определений и больше.md",
+    "ООП/Лекция 1.md",
     "Лекции/Лекция 2.md",
     "Семинары/Семинар 1.md",
     "Лекции/Термины.md",
     "Лекции/Лекция 1.md",
-    "Семинары/Семинар 1.drawio",
-    "Diagram.svg.md",
-    "2022-09-09.md"
+    "Семинары/Семинар 1.drawio"
   ]
 }
