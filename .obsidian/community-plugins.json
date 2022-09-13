@@ -2,5 +2,8 @@
   "calendar",
   "table-editor-obsidian",
   "obsidian-kanban",
-  "obsidian-git"
+  "obsidian-git",
+  "cm-editor-syntax-highlight-obsidian",
+  "drawio-obsidian",
+  "obsidian-admonition"
 ]
