@@ -1,0 +1,158 @@
+{
+  "main": {
+    "id": "86d83c61f7fe1893",
+    "type": "split",
+    "children": [
+      {
+        "id": "17c38e296e6ac44a",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Семинары/Семинар 1.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f5c4c964a239367e",
+    "type": "split",
+    "children": [
+      {
+        "id": "b8763ce3208e9822",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5184a99756e5506f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "fd577856594f1c1f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7603864286c3418a",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ca530f34a6b963bc",
+    "type": "split",
+    "children": [
+      {
+        "id": "47543bb6cf0ee302",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ea7e2aeba8b85549",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Семинары/Семинар 1.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e0b684ec6bcc496b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Семинары/Семинар 1.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6565e5fbfb95db39",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "65b59d4c31e18f30",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Семинары/Семинар 1.md"
+              }
+            }
+          },
+          {
+            "id": "ab83c13eb22c208b",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "878574e97639c240",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "17c38e296e6ac44a",
+  "lastOpenFiles": [
+    "Лекции/Лекция 2.md",
+    "Семинары/Семинар 1.md",
+    "Лекции/Термины.md",
+    "Лекции/Лекция 1.md",
+    "Семинары/Семинар 1.drawio",
+    "Diagram.svg.md",
+    "2022-09-09.md"
+  ]
+}
