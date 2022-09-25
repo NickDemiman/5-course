@@ -7,8 +7,10 @@
         "id": "73b4d1056e2ce850",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "kanban",
+          "state": {
+            "file": "kanban test.md"
+          }
         }
       }
     ],
@@ -83,7 +85,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "kanban test.md"
+              }
             }
           },
           {
@@ -116,6 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "kanban test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,6 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "kanban test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
