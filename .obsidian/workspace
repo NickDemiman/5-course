@@ -7,9 +7,11 @@
         "id": "73b4d1056e2ce850",
         "type": "leaf",
         "state": {
-          "type": "kanban",
+          "type": "markdown",
           "state": {
-            "file": "Tasks.md"
+            "file": "Аналитические модели АСОИУ/ДЗ/ДЗ №1.md",
+            "mode": "source",
+            "source": false
           }
         }
       }
@@ -86,7 +88,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tasks.md"
+                "file": "Аналитические модели АСОИУ/ДЗ/ДЗ №1.md"
               }
             }
           },
@@ -120,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tasks.md",
+                "file": "Аналитические модели АСОИУ/ДЗ/ДЗ №1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tasks.md",
+                "file": "Аналитические модели АСОИУ/ДЗ/ДЗ №1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,8 +154,8 @@
   },
   "active": "73b4d1056e2ce850",
   "lastOpenFiles": [
-    "Методология научного познания/Коллоквиумы/Коллоквиум 1.md",
     "Tasks.md",
+    "Методология научного познания/Коллоквиумы/Коллоквиум 1.md",
     "Оптимизация БД систем машинного обучения/Темы/Функциональные зависимости. Замыкание множества атрибутов условно-неизбыточных покрытий..md",
     "Оптимизация БД систем машинного обучения/Глоссарий.md",
     "Оптимизация БД систем машинного обучения/Темы/Основные операции реляционной алгебры.md",
