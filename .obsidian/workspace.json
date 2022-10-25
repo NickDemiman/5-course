@@ -13,25 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Английский язык/Перевод статьи.md",
+                "file": "Аналитические модели АСОИУ/ДЗ/ДЗ №1.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "f46c8efdf71791c3",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "51c151d32b7df529",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Английский язык/Graphics.pdf"
               }
             }
           }
@@ -112,7 +96,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Английский язык/Перевод статьи.md"
+                "file": "Аналитические модели АСОИУ/ДЗ/ДЗ №1.md"
               }
             }
           },
@@ -146,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Английский язык/Перевод статьи.md",
+                "file": "Аналитические модели АСОИУ/ДЗ/ДЗ №1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Английский язык/Перевод статьи.md",
+                "file": "Аналитические модели АСОИУ/ДЗ/ДЗ №1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -181,9 +165,9 @@
   },
   "active": "73b4d1056e2ce850",
   "lastOpenFiles": [
+    "Английский язык/Перевод статьи.md",
     "Английский язык/Семинары/Семинар 5.md",
     "Английский язык/Graphics.pdf",
-    "Английский язык/Перевод статьи.md",
     "Английский язык/Англ учебник.pdf",
     "Tasks.md",
     "Оптимизация БД систем машинного обучения/Темы/Функциональные зависимости..md",
