@@ -23,8 +23,12 @@
             "id": "3db1cb6d6a8a924b",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Английский язык/Перевод статьи.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -120,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Английский язык/Перевод статьи.md"
+              }
             }
           },
           {
@@ -153,6 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Английский язык/Перевод статьи.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,29 +176,31 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Английский язык/Перевод статьи.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 303.5
+    "width": 266.5,
+    "collapsed": true
   },
-  "active": "1fc931d14c4e7f02",
+  "active": "3db1cb6d6a8a924b",
   "lastOpenFiles": [
-    "Английский язык/Перевод статьи.md",
-    "Английский язык/Graphics.pdf",
+    "Английский язык/Англ учебник правильный.pdf",
     "Английский язык/Англ учебник.pdf",
-    "Преподаватели/Виноградова Мария Валерьевна.md",
+    "Английский язык/Graphics.pdf",
     "Преподаватели/Балдин Александр Викторович.md",
+    "Английский язык/Перевод статьи.md",
+    "Преподаватели/Виноградова Мария Валерьевна.md",
     "НИР.md",
     "Аналитические модели АСОИУ/ДЗ/ДЗ №1.md",
     "Английский язык/Семинары/Семинар 5.md",
-    "Tasks.md",
-    "Оптимизация БД систем машинного обучения/Темы/Функциональные зависимости..md"
+    "Tasks.md"
   ]
 }
